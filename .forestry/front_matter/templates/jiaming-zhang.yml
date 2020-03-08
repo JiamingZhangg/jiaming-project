@@ -1,4 +1,9 @@
 ---
 label: Jiaming Zhang
 hide_body: false
-fields: []
+fields:
+- name: aaaa
+  type: text
+  config:
+    required: false
+  label: aaaa
